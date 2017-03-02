@@ -1,0 +1,9 @@
+﻿  Source.cpp
+c:\users\polbm\desktop\project4\project4\source.cpp(13): warning C4101: 'Press_Esc_Event': unreferenced local variable
+c:\users\polbm\desktop\project4\project4\source.cpp(10): warning C4101: 'bmask': unreferenced local variable
+c:\users\polbm\desktop\project4\project4\source.cpp(10): warning C4101: 'gmask': unreferenced local variable
+c:\users\polbm\desktop\project4\project4\source.cpp(10): warning C4101: 'amask': unreferenced local variable
+c:\users\polbm\desktop\project4\project4\source.cpp(9): warning C4101: 'surface': unreferenced local variable
+c:\users\polbm\desktop\project4\project4\source.cpp(10): warning C4101: 'rmask': unreferenced local variable
+  Project4.vcxproj -> C:\Users\polbm\Desktop\Project4\Debug\Project4.exe
+  Project4.vcxproj -> C:\Users\polbm\Desktop\Project4\Debug\Project4.pdb (Partial PDB)
